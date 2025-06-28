@@ -1,6 +1,6 @@
 # JavaScript Practice Questions 💻
 
-This repository contains solutions to beginner-friendly JavaScript questions designed to teach fundamental concepts such as conditionals, user input, comparison, switch statements, and more.
+This repository contains solutions to beginner-friendly JavaScript assessment questions designed to test your kniowledge on the  fundamental concepts such as conditionals, user input, comparison, switch statements, and more.
 
 ## 📚 Questions Covered
 
