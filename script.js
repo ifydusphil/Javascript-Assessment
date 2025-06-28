@@ -24,7 +24,6 @@ if (yourAge > myAge) {
 } else{
     console.log("We are the same age!.");
 }
-}
 
 
 // For question three
@@ -43,7 +42,7 @@ if (a > b) {
 let c = 4;
 let d = 3;
 console.log(
-    c > d ? c + " is greater than " + d : c + "is less than + d"
+    c > d ? c + " is greater than " + d : c + "is less than" + d
 )
 
 
